@@ -84,12 +84,12 @@ section {
 
 .card p {
     margin-bottom: 10px;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
 }
 
 /* Estilos para imagens */
 .card img {
-    width: 100%;
+    width: 60%;
     height: auto;
     margin-bottom: 10px;
     border-radius: 5px;
